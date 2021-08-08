@@ -1,2 +1,0 @@
-icon form :https://www.flaticon.com/free-icon/cpu_815708?term=firmware&page=1&position=4&page=1&position=4&related_id=815708&origin=tag
-convert from png to ico in :https://convertico.com/
