@@ -1,15 +1,15 @@
 # AndroidRomFinder
 Simple HTML Parser writed on python and compiled to *.exe with pyinstaller 
 
-use:
-pip install requests
-pip install BeautifulSoup4
-pip install pyQT5
-pip install pyinstaller
-
-Optional:
-pip install bs4
-
+use:</br>
+pip install requests</br>
+pip install BeautifulSoup4</br>
+pip install pyQT5</br>
+pip install pyinstaller</br>
+</br>
+Optional:</br>
+pip install bs4</br>
+</br>
 code in Program.py is not clean is have some bug</br>
 in modules/ folder aim uploading new item let see plugins for more Firmwares</br>
 
