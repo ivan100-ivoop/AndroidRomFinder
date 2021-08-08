@@ -17,6 +17,7 @@ in modules/ folder aim uploading new item let see plugins for more Firmwares</br
 icon form: https://www.flaticon.com/free-icon/cpu_815708?term=firmware&page=1&position=4&page=1&position=4&related_id=815708&origin=tag </br>
 convert from png to ico: https://convertico.com/ </br>
 Compiled Exe: https://drive.google.com/file/d/1v1Fi_IWZ8OQbOPp2raQkdV_hQJjwJLjB/view?usp=sharing</br>
+Compiled Size: 29.7MB-(30MB)</br>
 
 !!!! aim new in python lang  !!!</br>
 aim use in more time java lang
