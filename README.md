@@ -15,7 +15,7 @@ in modules/ folder aim uploading new item let see plugins for more Firmwares</br
 
 # LINK
 icon from: https://www.flaticon.com/free-icon/cpu_815708?term=firmware&page=1&position=4&page=1&position=4&related_id=815708&origin=tag </br>
-convert from png to ico: https://convertico.com/ </br>
+convert from *.png to *.ico: https://convertico.com/ </br>
 Compiled Exe: https://drive.google.com/file/d/1c21RVJTVoaKBSFiLMD825wDI-qEH3Eog/view?usp=sharing</br>
 Compiled Size: 29.7MB-(30MB)</br>
 
